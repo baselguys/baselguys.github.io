@@ -9,7 +9,7 @@ paginate_path: "page:num"
 permalink:           pretty
 
 # Setup
-title:               <center><img src="https://raw.githubusercontent.com/baselguys/baselguys.github.io/master/public/basel_guys_logo_small.png" height=100%>  </img> </center>Basel Guys
+title:               <center><img src="https://raw.githubusercontent.com/baselguys/baselguys.github.io/master/public/basel_guys_logo_small.png" height=120>  </img> </center>Basel Guys
 tagline:             'smart guys on risky problems'
 description:         '<img src="https://raw.githubusercontent.com/baselguys/baselguys.github.io/master/public/basel_guys_logo.png" height=60>  </img>' 
 baseurl:             ''
